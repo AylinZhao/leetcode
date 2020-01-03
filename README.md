@@ -1,5 +1,3 @@
 # leetcode
 my record of my code
-
-
-java
+java or c++
