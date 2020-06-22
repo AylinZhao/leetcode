@@ -15,6 +15,6 @@ class Solution {
     			A[m + n - 1] = B[n - 1];
     			n--;
     		}
-    	}
+    	}ic
     }
 }
