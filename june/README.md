@@ -15,3 +15,5 @@
 * https://leetcode-cn.com/problems/ugly-number-ii/
 
 # 06-25
+* https://leetcode-cn.com/problems/missing-number/
+* https://leetcode-cn.com/problems/h-index/
