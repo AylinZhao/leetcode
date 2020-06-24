@@ -11,3 +11,7 @@
 * https://leetcode-cn.com/problems/perfect-squares/
 
 # 06-24
+* https://leetcode-cn.com/problems/ugly-number/
+* https://leetcode-cn.com/problems/ugly-number-ii/
+
+# 06-25
