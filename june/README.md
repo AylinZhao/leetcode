@@ -17,3 +17,11 @@
 # 06-25
 * https://leetcode-cn.com/problems/missing-number/
 * https://leetcode-cn.com/problems/h-index/
+
+# 06-26
+
+# 06-27
+
+# 06-28
+* [ ] 258 - https://leetcode-cn.com/problems/add-digits/
+* [ ] 264 - https://leetcode-cn.com/problems/ugly-number-ii/
