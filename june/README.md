@@ -23,5 +23,5 @@
 # 06-27
 
 # 06-28
-* [ ] 258 - https://leetcode-cn.com/problems/add-digits/
-* [ ] 275 - https://leetcode-cn.com/problems/h-index-ii/
+* [x] 258 - https://leetcode-cn.com/problems/add-digits/
+* [x] 275 - https://leetcode-cn.com/problems/h-index-ii/
