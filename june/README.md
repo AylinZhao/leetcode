@@ -25,3 +25,11 @@
 # 06-28
 * [x] 258 - https://leetcode-cn.com/problems/add-digits/
 * [x] 275 - https://leetcode-cn.com/problems/h-index-ii/
+
+# 06-29
+* [ ] 278 - https://leetcode-cn.com/problems/first-bad-version/
+* [ ] 273 - https://leetcode-cn.com/problems/integer-to-english-words/
+
+# 06-30
+* [ ] 283 - https://leetcode-cn.com/problems/move-zeroes/
+* [ ] 289 - https://leetcode-cn.com/problems/game-of-life/
