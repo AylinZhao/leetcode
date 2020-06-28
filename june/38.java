@@ -4,7 +4,10 @@ class Solution {
     	if (n == 1) return next;
     	int cnt = 1;
     	while ((++cnt) <= n) {
+<<<<<<< HEAD
             // String t = next;
+=======
+>>>>>>> 01890eb... add code
     		next = findNext(next);
     	}
     	return next;
