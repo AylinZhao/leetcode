@@ -12,7 +12,7 @@
 
 # 06-24
 * [x] 263 - https://leetcode-cn.com/problems/ugly-number/
-* [ ] 264 - https://leetcode-cn.com/problems/ugly-number-ii/
+* [x] 264 - https://leetcode-cn.com/problems/ugly-number-ii/
 
 # 06-25
 * [x] 268 - https://leetcode-cn.com/problems/missing-number/
