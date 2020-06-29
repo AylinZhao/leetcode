@@ -8,7 +8,7 @@
 
 # 06-23
 * [x] 237 - https://leetcode-cn.com/problems/delete-node-in-a-linked-list/
-* [ ] 279 - https://leetcode-cn.com/problems/perfect-squares/
+* [x] 279 - https://leetcode-cn.com/problems/perfect-squares/
 
 # 06-24
 * [x] 263 - https://leetcode-cn.com/problems/ugly-number/
@@ -27,7 +27,7 @@
 * [x] 275 - https://leetcode-cn.com/problems/h-index-ii/
 
 # 06-29
-* [ ] 278 - https://leetcode-cn.com/problems/first-bad-version/
+* [x] 278 - https://leetcode-cn.com/problems/first-bad-version/
 * [ ] 273 - https://leetcode-cn.com/problems/integer-to-english-words/
 
 # 06-30
