@@ -31,5 +31,5 @@
 * [ ] 273 - https://leetcode-cn.com/problems/integer-to-english-words/
 
 # 06-30
-* [ ] 283 - https://leetcode-cn.com/problems/move-zeroes/
+* [x] 283 - https://leetcode-cn.com/problems/move-zeroes/
 * [ ] 289 - https://leetcode-cn.com/problems/game-of-life/
