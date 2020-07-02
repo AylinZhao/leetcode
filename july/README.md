@@ -7,7 +7,7 @@
 * [x] 347 - https://leetcode-cn.com/problems/top-k-frequent-elements/
 
 # 07-03
-* [x] 392 - https://leetcode-cn.com/problems/is-subsequence/
-* [x] 396 - https://leetcode-cn.com/problems/rotate-function/
+* [ ] 392 - https://leetcode-cn.com/problems/is-subsequence/
+* [ ] 396 - https://leetcode-cn.com/problems/rotate-function/
 
 # 07-04
