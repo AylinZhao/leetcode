@@ -32,4 +32,4 @@
 
 # 06-30
 * [x] 283 - https://leetcode-cn.com/problems/move-zeroes/
-* [ ] 289 - https://leetcode-cn.com/problems/game-of-life/
+* [x] 289 - https://leetcode-cn.com/problems/game-of-life/
