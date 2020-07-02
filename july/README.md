@@ -1,5 +1,5 @@
 # 07-01
-* [ ] 342 - https://leetcode-cn.com/problems/power-of-four/
+* [x] 342 - https://leetcode-cn.com/problems/power-of-four/
 * [ ] 343 - https://leetcode-cn.com/problems/integer-break/
 
 # 07-02
