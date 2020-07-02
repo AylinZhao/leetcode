@@ -8,11 +8,11 @@
 
 # 06-23
 * [x] 237 - https://leetcode-cn.com/problems/delete-node-in-a-linked-list/
-* [ ] 279 - https://leetcode-cn.com/problems/perfect-squares/
+* [x] 279 - https://leetcode-cn.com/problems/perfect-squares/
 
 # 06-24
 * [x] 263 - https://leetcode-cn.com/problems/ugly-number/
-* [ ] 264 - https://leetcode-cn.com/problems/ugly-number-ii/
+* [x] 264 - https://leetcode-cn.com/problems/ugly-number-ii/
 
 # 06-25
 * [x] 268 - https://leetcode-cn.com/problems/missing-number/
@@ -25,3 +25,11 @@
 # 06-28
 * [x] 258 - https://leetcode-cn.com/problems/add-digits/
 * [x] 275 - https://leetcode-cn.com/problems/h-index-ii/
+
+# 06-29
+* [x] 278 - https://leetcode-cn.com/problems/first-bad-version/
+* [ ] 273 - https://leetcode-cn.com/problems/integer-to-english-words/
+
+# 06-30
+* [x] 283 - https://leetcode-cn.com/problems/move-zeroes/
+* [ ] 289 - https://leetcode-cn.com/problems/game-of-life/
