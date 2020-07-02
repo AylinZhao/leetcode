@@ -4,6 +4,6 @@
 
 # 07-02
 * [x] 349 - https://leetcode-cn.com/problems/intersection-of-two-arrays/
-* [ ] 347 - https://leetcode-cn.com/problems/top-k-frequent-elements/
+* [x] 347 - https://leetcode-cn.com/problems/top-k-frequent-elements/
 
 # 07-03
