@@ -3,7 +3,6 @@ class Solution {
         if (A == null || A.length == 0) return 0;
     	int n = A.length;
     	int max = Integer.MIN_VALUE;
-    	// int[] f = new int[n];
     	for (int st = 0; st < n; st++) {
     		max = Math.max(count(A, st), max);
     	}
