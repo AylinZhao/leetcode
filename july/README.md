@@ -12,4 +12,4 @@
 
 # 07-04
 * [x] 993 - https://leetcode-cn.com/problems/cousins-in-binary-tree/
-* [ ] 面试题 02.05 - https://leetcode-cn.com/problems/sum-lists-lcci/
+* [x] 面试题 02.05 - https://leetcode-cn.com/problems/sum-lists-lcci/
