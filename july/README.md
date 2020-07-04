@@ -11,5 +11,5 @@
 * [x] 396 - https://leetcode-cn.com/problems/rotate-function/
 
 # 07-04
-* [ ] 993 - https://leetcode-cn.com/problems/cousins-in-binary-tree/
+* [x] 993 - https://leetcode-cn.com/problems/cousins-in-binary-tree/
 * [ ] 面试题 02.05 - https://leetcode-cn.com/problems/sum-lists-lcci/
