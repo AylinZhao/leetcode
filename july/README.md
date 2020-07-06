@@ -17,3 +17,11 @@
 # 07-05
 * [x] 383 - https://leetcode-cn.com/problems/ransom-note/
 * [x] 398 - https://leetcode-cn.com/problems/random-pick-index/
+
+# 07-06
+* [ ] 389 - https://leetcode-cn.com/problems/find-the-difference/
+* [ ] 391 - https://leetcode-cn.com/problems/perfect-rectangle/
+
+# 07-07
+* [ ] 437 - https://leetcode-cn.com/problems/path-sum-iii/
+* [ ] 406 - https://leetcode-cn.com/problems/queue-reconstruction-by-height/
