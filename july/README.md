@@ -19,7 +19,7 @@
 * [x] 398 - https://leetcode-cn.com/problems/random-pick-index/
 
 # 07-06
-* [ ] 389 - https://leetcode-cn.com/problems/find-the-difference/
+* [x] 389 - https://leetcode-cn.com/problems/find-the-difference/
 * [ ] 391 - https://leetcode-cn.com/problems/perfect-rectangle/
 
 # 07-07
