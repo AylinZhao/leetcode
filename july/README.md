@@ -15,5 +15,17 @@
 * [x] 面试题 02.05 - https://leetcode-cn.com/problems/sum-lists-lcci/
 
 # 07-05
-* [ ] 383 - https://leetcode-cn.com/problems/ransom-note/
-* [ ] 398 - https://leetcode-cn.com/problems/random-pick-index/
+* [x] 383 - https://leetcode-cn.com/problems/ransom-note/
+* [x] 398 - https://leetcode-cn.com/problems/random-pick-index/
+
+# 07-06
+* [x] 389 - https://leetcode-cn.com/problems/find-the-difference/
+* [ ] 391 - https://leetcode-cn.com/problems/perfect-rectangle/
+
+# 07-07
+* [ ] 437 - https://leetcode-cn.com/problems/path-sum-iii/
+* [ ] 406 - https://leetcode-cn.com/problems/queue-reconstruction-by-height/
+
+# 07-08
+* [ ] 485 - https://leetcode-cn.com/problems/max-consecutive-ones/
+* [ ] 477 - https://leetcode-cn.com/problems/total-hamming-distance/
