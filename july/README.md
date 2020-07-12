@@ -24,7 +24,7 @@
 
 # 07-07
 * [x] 437 - https://leetcode-cn.com/problems/path-sum-iii/
-* [ ] 406 - https://leetcode-cn.com/problems/queue-reconstruction-by-height/
+* [x] 406 - https://leetcode-cn.com/problems/queue-reconstruction-by-height/
 
 # 07-08
 * [x] 485 - https://leetcode-cn.com/problems/max-consecutive-ones/
