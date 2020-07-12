@@ -28,4 +28,4 @@
 
 # 07-08
 * [x] 485 - https://leetcode-cn.com/problems/max-consecutive-ones/
-* [ ] 477 - https://leetcode-cn.com/problems/total-hamming-distance/
+* [x] 477 - https://leetcode-cn.com/problems/total-hamming-distance/
