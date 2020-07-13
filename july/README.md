@@ -29,3 +29,7 @@
 # 07-08
 * [x] 485 - https://leetcode-cn.com/problems/max-consecutive-ones/
 * [x] 477 - https://leetcode-cn.com/problems/total-hamming-distance/
+
+# 07-14
+* [ ] 35 - https://leetcode-cn.com/problems/search-insert-position/
+* [ ] 73 - https://leetcode-cn.com/problems/set-matrix-zeroes/
