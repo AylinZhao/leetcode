@@ -31,5 +31,5 @@
 * [x] 477 - https://leetcode-cn.com/problems/total-hamming-distance/
 
 # 07-14
-* [ ] 35 - https://leetcode-cn.com/problems/search-insert-position/
-* [ ] 73 - https://leetcode-cn.com/problems/set-matrix-zeroes/
+* [x] 35 - https://leetcode-cn.com/problems/search-insert-position/
+* [x] 73 - https://leetcode-cn.com/problems/set-matrix-zeroes/
