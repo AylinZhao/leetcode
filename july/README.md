@@ -35,5 +35,5 @@
 * [x] 73 - https://leetcode-cn.com/problems/set-matrix-zeroes/
 
 # 07-16
-* [ ] 292 - https://leetcode-cn.com/problems/nim-game/
-* [ ] 338 - https://leetcode-cn.com/problems/counting-bits/
+* [x] 292 - https://leetcode-cn.com/problems/nim-game/
+* [x] 338 - https://leetcode-cn.com/problems/counting-bits/
