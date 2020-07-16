@@ -20,7 +20,7 @@
 
 # 07-06
 * [x] 389 - https://leetcode-cn.com/problems/find-the-difference/
-* [ ] 391 - https://leetcode-cn.com/problems/perfect-rectangle/
+* [x] 391 - https://leetcode-cn.com/problems/perfect-rectangle/
 
 # 07-07
 * [x] 437 - https://leetcode-cn.com/problems/path-sum-iii/
