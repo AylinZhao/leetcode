@@ -41,3 +41,11 @@
 # 07-17
 * [ ] 374 - https://leetcode-cn.com/problems/guess-number-higher-or-lower/
 * [ ] 400 - https://leetcode-cn.com/problems/nth-digit/
+
+# 07-20
+* [ ] 414 - https://leetcode-cn.com/problems/third-maximum-number/
+* [ ] 419 - https://leetcode-cn.com/problems/battleships-in-a-board/
+
+# 07-21
+* [ ] 414 - https://leetcode-cn.com/problems/add-strings/
+* [ ] 421 - https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/
