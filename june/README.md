@@ -28,7 +28,7 @@
 
 # 06-29
 * [x] 278 - https://leetcode-cn.com/problems/first-bad-version/
-* [ ] 273 - https://leetcode-cn.com/problems/integer-to-english-words/
+* [x] 273 - https://leetcode-cn.com/problems/integer-to-english-words/
 
 # 06-30
 * [x] 283 - https://leetcode-cn.com/problems/move-zeroes/
