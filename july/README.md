@@ -39,7 +39,7 @@
 * [x] 338 - https://leetcode-cn.com/problems/counting-bits/
 
 # 07-17
-* [ ] 374 - https://leetcode-cn.com/problems/guess-number-higher-or-lower/
+* [x] 374 - https://leetcode-cn.com/problems/guess-number-higher-or-lower/
 * [ ] 400 - https://leetcode-cn.com/problems/nth-digit/
 
 # 07-20
