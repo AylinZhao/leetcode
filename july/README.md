@@ -49,3 +49,7 @@
 # 07-21
 * [x] 414 - https://leetcode-cn.com/problems/add-strings/
 * [ ] 421 - https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/
+
+# 07-27 (小老弟身体快点恢复～)
+* [ ] 645 - https://leetcode-cn.com/problems/set-mismatch/
+* [ ] 647 - https://leetcode-cn.com/problems/palindromic-substrings/
