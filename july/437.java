@@ -8,30 +8,18 @@
  * }
  */
 class Solution {
-    public int target;
-    public int res;
+	public int target;
     public int pathSum(TreeNode root, int sum) {
-    	if (root == null) return 0;
-		res = 0;
-        target = sum;
-		dfs(root);
-    	return res;
-    }
-    public void dfs(TreeNode root) {
-    	if (root == null) return;
-    	res += find(root, target);
-        // System.out.println( "current node :" + root.val + "return : " + find(root, target));        
+    	target = sum;
 
-    	dfs(root.left);
-    	dfs(root.right);
-    	return;	
+
     }
-    public int find(TreeNode root, int target) {
-    	if (root == null) return 0;
-        int cul = 0;
-    	if (root.val == target) cul++;
-    	int left = find(root.left, target - root.val);
-		int right = find(root.right, target - root.val);
-		return left + right + cul;
+    public int dfs(TreeNode node, int res) {
+    	if (node == null) return 0;
+    	int left = dfs(node.left);
+    	int right = dfs(node.right);
+    	if (node.val + left == target) {
+    		res++;
+    	} else if ()
     }
 }
