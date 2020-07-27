@@ -44,7 +44,7 @@
 
 # 07-20
 * [x] 414 - https://leetcode-cn.com/problems/third-maximum-number/
-* [ ] 419 - https://leetcode-cn.com/problems/battleships-in-a-board/
+* [x] 419 - https://leetcode-cn.com/problems/battleships-in-a-board/
 
 # 07-21
 * [x] 414 - https://leetcode-cn.com/problems/add-strings/
