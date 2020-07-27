@@ -53,3 +53,19 @@
 # 07-27 (小老弟身体快点恢复～)
 * [x] 645 - https://leetcode-cn.com/problems/set-mismatch/
 * [x] 647 - https://leetcode-cn.com/problems/palindromic-substrings/
+
+# 07-28
+* [ ] 447 - https://leetcode-cn.com/problems/number-of-boomerangs/
+* [ ] 449 - https://leetcode-cn.com/problems/serialize-and-deserialize-bst/
+
+# 07-29
+* [ ] 448 - https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/
+* [ ] 450 - https://leetcode-cn.com/problems/delete-node-in-a-bst/
+
+# 07-30
+* [ ] 463 - https://leetcode-cn.com/problems/island-perimeter/
+* [ ] 464 - https://leetcode-cn.com/problems/can-i-win/
+
+# 07-31
+* [ ] 470 - https://leetcode-cn.com/problems/implement-rand10-using-rand7/
+* [ ] 480 - https://leetcode-cn.com/problems/sliding-window-median/
