@@ -40,7 +40,7 @@
 
 # 07-17
 * [x] 374 - https://leetcode-cn.com/problems/guess-number-higher-or-lower/
-* [ ] 400 - https://leetcode-cn.com/problems/nth-digit/
+* [x] 400 - https://leetcode-cn.com/problems/nth-digit/
 
 # 07-20
 * [x] 414 - https://leetcode-cn.com/problems/third-maximum-number/
@@ -51,5 +51,5 @@
 * [ ] 421 - https://leetcode-cn.com/problems/maximum-xor-of-two-numbers-in-an-array/
 
 # 07-27 (小老弟身体快点恢复～)
-* [ ] 645 - https://leetcode-cn.com/problems/set-mismatch/
-* [ ] 647 - https://leetcode-cn.com/problems/palindromic-substrings/
+* [x] 645 - https://leetcode-cn.com/problems/set-mismatch/
+* [x] 647 - https://leetcode-cn.com/problems/palindromic-substrings/
