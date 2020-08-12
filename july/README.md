@@ -59,11 +59,11 @@
 * [ ] 449 - https://leetcode-cn.com/problems/serialize-and-deserialize-bst/
 
 # 07-29
-* [ ] 448 - https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/
+* [x] 448 - https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/
 * [ ] 450 - https://leetcode-cn.com/problems/delete-node-in-a-bst/
 
 # 07-30
-* [ ] 463 - https://leetcode-cn.com/problems/island-perimeter/
+* [x] 463 - https://leetcode-cn.com/problems/island-perimeter/
 * [ ] 464 - https://leetcode-cn.com/problems/can-i-win/
 
 # 07-31
