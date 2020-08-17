@@ -55,12 +55,12 @@
 * [x] 647 - https://leetcode-cn.com/problems/palindromic-substrings/
 
 # 07-28
-* [ ] 447 - https://leetcode-cn.com/problems/number-of-boomerangs/
+* [x] 447 - https://leetcode-cn.com/problems/number-of-boomerangs/
 * [ ] 449 - https://leetcode-cn.com/problems/serialize-and-deserialize-bst/
 
 # 07-29
 * [x] 448 - https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/
-* [ ] 450 - https://leetcode-cn.com/problems/delete-node-in-a-bst/
+* [x] 450 - https://leetcode-cn.com/problems/delete-node-in-a-bst/
 
 # 07-30
 * [x] 463 - https://leetcode-cn.com/problems/island-perimeter/
