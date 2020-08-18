@@ -1,12 +1,12 @@
 # 08-01
 
 # 08-17
-* [ ] 492 - https://leetcode-cn.com/problems/construct-the-rectangle/
-* [ ] 494 - https://leetcode-cn.com/problems/target-sum/
+* [x] 492 - https://leetcode-cn.com/problems/construct-the-rectangle/
+* [x] 494 - https://leetcode-cn.com/problems/target-sum/
 
 # 08-18
-* [ ] 496 - https://leetcode-cn.com/problems/next-greater-element-i/
-* [ ] 495 - https://leetcode-cn.com/problems/teemo-attacking/
+* [x] 496 - https://leetcode-cn.com/problems/next-greater-element-i/
+* [x] 495 - https://leetcode-cn.com/problems/teemo-attacking/
 
 # 08-19
 * [ ] 498 - https://leetcode-cn.com/problems/diagonal-traverse/
