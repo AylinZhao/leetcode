@@ -9,7 +9,7 @@
 * [x] 495 - https://leetcode-cn.com/problems/teemo-attacking/
 
 # 08-19
-* [ ] 498 - https://leetcode-cn.com/problems/diagonal-traverse/
+* [x] 498 - https://leetcode-cn.com/problems/diagonal-traverse/
 * [ ] 497 - https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/
 
 # 08-20
