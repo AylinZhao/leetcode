@@ -27,3 +27,19 @@
 # 08-23
 * [ ] 507 - https://leetcode-cn.com/problems/perfect-number/
 * [ ] 513 - https://leetcode-cn.com/problems/find-bottom-left-tree-value/
+
+# 08-28
+* [ ] 594 - https://leetcode-cn.com/problems/longest-harmonious-subsequence/
+* [ ] 593 - https://leetcode-cn.com/problems/valid-square/
+
+# 08-29
+* [ ] 598 - https://leetcode-cn.com/problems/range-addition-ii/
+* [ ] 592 - https://leetcode-cn.com/problems/fraction-addition-and-subtraction/
+
+# 08-30
+* [ ] 599 - https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/
+* [ ] 600 - https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/
+
+# 08-31
+* [ ] 563 - https://leetcode-cn.com/problems/binary-tree-tilt/
+* [ ] 556 - https://leetcode-cn.com/problems/next-greater-element-iii/
