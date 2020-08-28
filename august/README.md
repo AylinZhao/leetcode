@@ -13,11 +13,11 @@
 * [ ] 497 - https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/
 
 # 08-20
-* [ ] 500 - https://leetcode-cn.com/problems/keyboard-row/
+* [X] 500 - https://leetcode-cn.com/problems/keyboard-row/
 * [ ] 503 - https://leetcode-cn.com/problems/next-greater-element-ii/
 
 # 08-21
-* [ ] 501 - https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/
+* [x] 501 - https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/
 * [ ] 508 - https://leetcode-cn.com/problems/most-frequent-subtree-sum/
 
 # 08-22
