@@ -13,7 +13,7 @@
 * [ ] 497 - https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/
 
 # 08-20
-* [X] 500 - https://leetcode-cn.com/problems/keyboard-row/
+* [x] 500 - https://leetcode-cn.com/problems/keyboard-row/
 * [ ] 503 - https://leetcode-cn.com/problems/next-greater-element-ii/
 
 # 08-21
@@ -21,7 +21,7 @@
 * [ ] 508 - https://leetcode-cn.com/problems/most-frequent-subtree-sum/
 
 # 08-22
-* [ ] 506 - https://leetcode-cn.com/problems/relative-ranks/
+* [x] 506 - https://leetcode-cn.com/problems/relative-ranks/
 * [ ] 508 - https://leetcode-cn.com/problems/most-frequent-subtree-sum/
 
 # 08-23
