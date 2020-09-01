@@ -42,4 +42,4 @@
 
 # 08-31
 * [x] 563 - https://leetcode-cn.com/problems/binary-tree-tilt/
-* [ ] 556 - https://leetcode-cn.com/problems/next-greater-element-iii/
+* [x] 556 - https://leetcode-cn.com/problems/next-greater-element-iii/
