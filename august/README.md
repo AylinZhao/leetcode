@@ -14,7 +14,7 @@
 
 # 08-20
 * [x] 500 - https://leetcode-cn.com/problems/keyboard-row/
-* [ ] 503 - https://leetcode-cn.com/problems/next-greater-element-ii/
+* [x] 503 - https://leetcode-cn.com/problems/next-greater-element-ii/
 
 # 08-21
 * [x] 501 - https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/
