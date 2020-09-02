@@ -22,15 +22,15 @@
 
 # 08-22
 * [x] 506 - https://leetcode-cn.com/problems/relative-ranks/
-* [ ] 508 - https://leetcode-cn.com/problems/most-frequent-subtree-sum/
+* [x] 508 - https://leetcode-cn.com/problems/most-frequent-subtree-sum/
 
 # 08-23
 * [x] 507 - https://leetcode-cn.com/problems/perfect-number/
-* [ ] 513 - https://leetcode-cn.com/problems/find-bottom-left-tree-value/
+* [x] 513 - https://leetcode-cn.com/problems/find-bottom-left-tree-value/
 
 # 08-28
 * [x] 594 - https://leetcode-cn.com/problems/longest-harmonious-subsequence/
-* [ ] 593 - https://leetcode-cn.com/problems/valid-square/
+* [x] 593 - https://leetcode-cn.com/problems/valid-square/
 
 # 08-29
 * [x] 598 - https://leetcode-cn.com/problems/range-addition-ii/
