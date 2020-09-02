@@ -18,7 +18,7 @@
 
 # 08-21
 * [x] 501 - https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/
-* [ ] 508 - https://leetcode-cn.com/problems/most-frequent-subtree-sum/
+* [ ] 16 - https://leetcode-cn.com/problems/3sum-closest/
 
 # 08-22
 * [x] 506 - https://leetcode-cn.com/problems/relative-ranks/
