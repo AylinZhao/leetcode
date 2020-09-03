@@ -10,7 +10,7 @@
 
 # 08-19
 * [x] 498 - https://leetcode-cn.com/problems/diagonal-traverse/
-* [ ] 497 - https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/
+* [x] 497 - https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/
 
 # 08-20
 * [x] 500 - https://leetcode-cn.com/problems/keyboard-row/
