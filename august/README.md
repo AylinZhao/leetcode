@@ -34,7 +34,7 @@
 
 # 08-29
 * [x] 598 - https://leetcode-cn.com/problems/range-addition-ii/
-* [ ] 592 - https://leetcode-cn.com/problems/fraction-addition-and-subtraction/
+* [x] 592 - https://leetcode-cn.com/problems/fraction-addition-and-subtraction/
 
 # 08-30
 * [x] 599 - https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/
