@@ -1,5 +1,5 @@
 # 09-01
-* [ ] 565 - https://leetcode-cn.com/problems/array-nesting/
+* [x] 565 - https://leetcode-cn.com/problems/array-nesting/
 * [ ] 554 - https://leetcode-cn.com/problems/brick-wall/
 
 # 09-02
