@@ -1,18 +1,18 @@
 # 09-01
 * [x] 565 - https://leetcode-cn.com/problems/array-nesting/
-* [ ] 554 - https://leetcode-cn.com/problems/brick-wall/
+* [x] 554 - https://leetcode-cn.com/problems/brick-wall/
 
 # 09-02
-* [ ] 696 - https://leetcode-cn.com/problems/count-binary-substrings/
-* [ ] 698 - https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/
+* [x] 696 - https://leetcode-cn.com/problems/count-binary-substrings/
+* [x] 698 - https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/
 
 # 09-03
-* [ ] 697 - https://leetcode-cn.com/problems/degree-of-an-array/
-* [ ] 784 - https://leetcode-cn.com/problems/letter-case-permutation/
+* [x] 697 - https://leetcode-cn.com/problems/degree-of-an-array/
+* [x] 784 - https://leetcode-cn.com/problems/letter-case-permutation/
 
 # 09-04
-* [ ] 700 - https://leetcode-cn.com/problems/search-in-a-binary-search-tree/
-* [ ] 564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
+* [x] 700 - https://leetcode-cn.com/problems/search-in-a-binary-search-tree/
+* [x] 564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
 
 # 09-05
 * [ ] 687 - https://leetcode-cn.com/problems/longest-univalue-path/
