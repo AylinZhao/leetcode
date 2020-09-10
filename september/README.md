@@ -26,3 +26,27 @@
 # 09-07
 * [ ] 788 - https://leetcode-cn.com/problems/rotated-digits/
 * [ ] 881 - https://leetcode-cn.com/problems/boats-to-save-people/
+
+# 09-08
+* [ ] 985 - https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/
+* [ ] 355 - https://leetcode-cn.com/problems/design-twitter/
+
+# 09-09
+* [ ] 434 - https://leetcode-cn.com/problems/number-of-segments-in-a-string/
+* [ ] 372 - https://leetcode-cn.com/problems/super-pow/
+
+# 09-10
+* [ ] 999 - https://leetcode-cn.com/problems/available-captures-for-rook/
+* [ ] 327 - https://leetcode-cn.com/problems/count-of-range-sum/
+
+# 09-11
+* [ ] 997 - https://leetcode-cn.com/problems/find-the-town-judge/
+* [ ] 1000 - https://leetcode-cn.com/problems/minimum-cost-to-merge-stones/
+
+# 09-12
+* [ ] 414 - https://leetcode-cn.com/problems/third-maximum-number/
+* [ ] 385 - https://leetcode-cn.com/problems/mini-parser/
+
+# 09-13
+* [ ] 345 - https://leetcode-cn.com/problems/reverse-vowels-of-a-string/
+* [ ] 986 - https://leetcode-cn.com/problems/interval-list-intersections/
