@@ -15,12 +15,12 @@
 * [x] 564 - https://leetcode-cn.com/problems/find-the-closest-palindrome/
 
 # 09-05
-* [ ] 687 - https://leetcode-cn.com/problems/longest-univalue-path/
-* [ ] 785 - https://leetcode-cn.com/problems/is-graph-bipartite/
+* [x] 687 - https://leetcode-cn.com/problems/longest-univalue-path/
+* [x] 785 - https://leetcode-cn.com/problems/is-graph-bipartite/
 
 # 09-06
-* [ ] 530 - https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/
-* [ ] 783 - https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
+* [x] 530 - https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/
+* [x] 783 - https://leetcode-cn.com/problems/minimum-distance-between-bst-nodes/
 * [ ] 799 - https://leetcode-cn.com/problems/champagne-tower/
 
 # 09-07
@@ -28,7 +28,7 @@
 * [ ] 881 - https://leetcode-cn.com/problems/boats-to-save-people/
 
 # 09-08
-* [ ] 985 - https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/
+* [x] 985 - https://leetcode-cn.com/problems/sum-of-even-numbers-after-queries/
 * [ ] 355 - https://leetcode-cn.com/problems/design-twitter/
 
 # 09-09
