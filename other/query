@@ -1,0 +1,35 @@
+1、请陈述OSI的7层模型？(open system Interconnection)
+物理层，数据链路层，网络层，传输层，会话层，表示层，应用层。
+
+2、我行目前投产的防火墙类型有哪些？
+juniper, hillstone, fortinet
+
+3、罗列三种你所知道的web攻击手段？
+答案：Dos，CSRF,SQL注入，XSS攻击，文件上传漏洞，缓冲区溢出攻击，Http Heads攻击，Cookie攻击。
+
+4、常见的vpn协议有哪些？
+A.L2F B.点对点隧道协议 C.IPsec D.SSL VPN
+答案：ABCD
+
+5、
+
+6、以下哪些是信息安全的主要特性？
+A、可用性 B、完整性 C、机密性 D、可靠性
+答案： ABC
+
+7、请说出 Iaas, Paas, Saas的英文全称
+答案：
+Iaas: Infrastructure as a service
+Paas: Platform as a service
+Saas: Service as a service
+
+8、请说出http的五种请求方式
+答案： GET POST HEAD	PUT DELETE CONNECT OPTIONS TRACE
+
+9、有人值守的机房，灭火用什么？
+A、惰性气体 B、二氧化碳 C、干管 D、湿管
+答案：B
+
+10、在linux 密码中加入以下哪一项来增加他们的随机性？
+A、盐 B、胡椒 C、谷物 D、MD5
+答案：A
